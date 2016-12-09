@@ -1,0 +1,4 @@
+3
+C:\Temp\test.txt
+C:\Windows\notepad.exe
+C:\Windows\regedit.exe
