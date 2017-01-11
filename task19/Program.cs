@@ -69,26 +69,9 @@ namespace task19
                     return;
                 }
 
+                Console.WriteLine(symbolPos2 - symbolPos -1);
 
-                for (int i = 0; i < str.Length; i++)
-                {
-                    if (str[i] == symbol)
-                    {
-                        countSymbol++;
-                    }
-                    if (countSymbol > 1)
-                    {
-                        Console.WriteLine("error");
-                        return;
-                    }
-                   
-                }
-
-                for (int j = symbolPos + 1; j < symbolPos2; j++)
-                {
-                    countChars++;
-                }
-                Console.WriteLine(countChars);
+           
             }
         }
     }
