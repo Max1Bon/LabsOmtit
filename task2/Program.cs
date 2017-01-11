@@ -37,7 +37,8 @@ namespace task2
             }
 
             //вывод значения sum
-            sum = sum / text.Length - 1;
+            sum = sum / (text.Length - 1);
+            
             Console.WriteLine(sum);
 
             //Вывод файла
