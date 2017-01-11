@@ -38,6 +38,7 @@ namespace task9
                 String str = sr2.ReadLine(); //строка в str
                 Console.WriteLine(str); //вывод str
                 int symbolPos = str.IndexOf(symbol);
+                int symbolPos2 = str.IndexOf(symbol, symbolPos+1);
                 var chars = str.ToCharArray();
 
 
@@ -47,25 +48,13 @@ namespace task9
                     return;
                 }
 
-                for (int i = 0; i < str.Length; i++)
+                if (symbolPos2 != (-1))
                 {
-                    if (str[i] == symbol)
-                    {
-                        countSymbol++;
-                    }
-                    if (countSymbol > 1)
-                    {
-                        Console.WriteLine("error");
-                        return;
-                    }
-                    
+                   Console.WriteLine("error");
+                    return; 
                 }
 
-                for (int j = symbolPos+1; j < str.Length; j++)
-                {
-                    countChars++;
-                }
-                Console.WriteLine(countChars);
+                Console.WriteLine(str.Length - symbolPos -1);
 
             }
         }
