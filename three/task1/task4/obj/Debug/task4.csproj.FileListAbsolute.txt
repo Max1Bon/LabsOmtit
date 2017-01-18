@@ -1,0 +1,11 @@
+F:\c#\three\task1\task4\bin\Debug\task4.exe.config
+F:\c#\three\task1\task4\bin\Debug\task4.exe
+F:\c#\three\task1\task4\bin\Debug\task4.pdb
+F:\c#\three\task1\task4\obj\Debug\task4.exe
+F:\c#\three\task1\task4\obj\Debug\task4.pdb
+E:\c#\three\task1\task4\bin\Debug\task4.exe.config
+E:\c#\three\task1\task4\bin\Debug\task4.exe
+E:\c#\three\task1\task4\bin\Debug\task4.pdb
+E:\c#\three\task1\task4\obj\Debug\task4.csprojResolveAssemblyReference.cache
+E:\c#\three\task1\task4\obj\Debug\task4.exe
+E:\c#\three\task1\task4\obj\Debug\task4.pdb

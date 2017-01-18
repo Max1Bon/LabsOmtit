@@ -1,0 +1,5 @@
+F:\c#\first\task5\bin\Debug\task5.exe.config
+F:\c#\first\task5\obj\Debug\task5.exe
+F:\c#\first\task5\obj\Debug\task5.pdb
+F:\c#\first\task5\bin\Debug\task5.exe
+F:\c#\first\task5\bin\Debug\task5.pdb

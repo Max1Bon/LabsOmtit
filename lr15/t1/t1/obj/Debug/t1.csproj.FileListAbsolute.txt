@@ -1,0 +1,6 @@
+F:\c#\lr15\t1\t1\bin\Debug\t1.exe.config
+F:\c#\lr15\t1\t1\bin\Debug\t1.exe
+F:\c#\lr15\t1\t1\bin\Debug\t1.pdb
+F:\c#\lr15\t1\t1\obj\Debug\t1.csprojResolveAssemblyReference.cache
+F:\c#\lr15\t1\t1\obj\Debug\t1.exe
+F:\c#\lr15\t1\t1\obj\Debug\t1.pdb

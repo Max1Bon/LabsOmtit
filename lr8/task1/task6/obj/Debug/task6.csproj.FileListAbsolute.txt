@@ -1,0 +1,8 @@
+F:\c#\lr8\task1\task6\bin\Debug\task6.exe.config
+F:\c#\lr8\task1\task6\bin\Debug\task6.exe
+F:\c#\lr8\task1\task6\bin\Debug\task6.pdb
+F:\c#\lr8\task1\task6\obj\Debug\task6.exe
+F:\c#\lr8\task1\task6\obj\Debug\task6.pdb
+E:\c#\lr8\task1\task6\bin\Debug\task6.exe.config
+E:\c#\lr8\task1\task6\obj\Debug\task6.exe
+E:\c#\lr8\task1\task6\obj\Debug\task6.pdb

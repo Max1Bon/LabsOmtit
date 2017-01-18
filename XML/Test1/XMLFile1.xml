@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--структура каталога, обозначенная тегами <root>-->
+<root>
+  <!--Каталог Employee с атрибутom name-->
+  <Employee name ="Maxim">
+    <!--Вложенные данные Age, Programmer, в каталог Employee-->
+    <Age>22</Age>
+    <Programmer>True</Programmer>
+  </Employee>
+  </root>

@@ -1,0 +1,12 @@
+E:\c#\three\task1\task21\bin\Debug\task21.exe.config
+E:\c#\three\task1\task21\bin\Debug\task21.exe
+E:\c#\three\task1\task21\bin\Debug\task21.pdb
+E:\c#\three\task1\task21\obj\Debug\task21.exe
+E:\c#\three\task1\task21\obj\Debug\task21.pdb
+E:\c#\three\task1\task21\obj\Debug\task21.csprojResolveAssemblyReference.cache
+F:\c#\three\task1\task21\bin\Debug\task21.exe.config
+F:\c#\three\task1\task21\obj\Debug\task21.exe
+F:\c#\three\task1\task21\obj\Debug\task21.pdb
+F:\c#\three\task1\task21\bin\Debug\task21.exe
+F:\c#\three\task1\task21\bin\Debug\task21.pdb
+F:\c#\three\task1\task21\obj\Debug\task21.csprojResolveAssemblyReference.cache

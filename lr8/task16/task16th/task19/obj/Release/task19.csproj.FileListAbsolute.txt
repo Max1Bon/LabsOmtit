@@ -1,0 +1,6 @@
+F:\c#\lr8\task16\task16th\task19\bin\Release\task19.exe.config
+F:\c#\lr8\task16\task16th\task19\bin\Release\task19.exe
+F:\c#\lr8\task16\task16th\task19\bin\Release\task19.pdb
+F:\c#\lr8\task16\task16th\task19\obj\Release\task19.csprojResolveAssemblyReference.cache
+F:\c#\lr8\task16\task16th\task19\obj\Release\task19.exe
+F:\c#\lr8\task16\task16th\task19\obj\Release\task19.pdb

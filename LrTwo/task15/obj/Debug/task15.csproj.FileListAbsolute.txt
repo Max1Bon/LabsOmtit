@@ -1,0 +1,8 @@
+F:\c#\LrTwo\task15\bin\Debug\task15.exe.config
+F:\c#\LrTwo\task15\bin\Debug\task15.exe
+F:\c#\LrTwo\task15\bin\Debug\task15.pdb
+F:\c#\LrTwo\task15\obj\Debug\task15.exe
+F:\c#\LrTwo\task15\obj\Debug\task15.pdb
+E:\c#\LrTwo\task15\bin\Debug\task15.exe.config
+E:\c#\LrTwo\task15\obj\Debug\task15.exe
+E:\c#\LrTwo\task15\obj\Debug\task15.pdb

@@ -1,0 +1,5 @@
+F:\c#\Collection\task4\bin\Debug\task4.exe.config
+F:\c#\Collection\task4\bin\Debug\task4.exe
+F:\c#\Collection\task4\bin\Debug\task4.pdb
+F:\c#\Collection\task4\obj\Debug\task4.exe
+F:\c#\Collection\task4\obj\Debug\task4.pdb

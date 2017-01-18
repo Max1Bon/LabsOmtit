@@ -1,0 +1,8 @@
+I:\c#\lr15\t1\task5(Test)\bin\Debug\task5(Test).exe.config
+I:\c#\lr15\t1\task5(Test)\bin\Debug\task5(Test).exe
+I:\c#\lr15\t1\task5(Test)\bin\Debug\task5(Test).pdb
+I:\c#\lr15\t1\task5(Test)\bin\Debug\ClassLibrary1.dll
+I:\c#\lr15\t1\task5(Test)\bin\Debug\ClassLibrary1.pdb
+I:\c#\lr15\t1\task5(Test)\obj\Debug\task5(Test).csprojResolveAssemblyReference.cache
+I:\c#\lr15\t1\task5(Test)\obj\Debug\task5(Test).exe
+I:\c#\lr15\t1\task5(Test)\obj\Debug\task5(Test).pdb

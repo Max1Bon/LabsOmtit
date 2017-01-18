@@ -1,0 +1,10 @@
+F:\c#\three\task1\task15\bin\Debug\task15.exe.config
+F:\c#\three\task1\task15\bin\Debug\task15.exe
+F:\c#\three\task1\task15\bin\Debug\task15.pdb
+F:\c#\three\task1\task15\obj\Debug\task15.exe
+F:\c#\three\task1\task15\obj\Debug\task15.pdb
+E:\c#\three\task1\task15\bin\Debug\task15.exe.config
+E:\c#\three\task1\task15\bin\Debug\task15.exe
+E:\c#\three\task1\task15\bin\Debug\task15.pdb
+E:\c#\three\task1\task15\obj\Debug\task15.exe
+E:\c#\three\task1\task15\obj\Debug\task15.pdb

@@ -1,0 +1,5 @@
+F:\c#\lr8\task16\task16th\task17\bin\Release\task17.exe
+F:\c#\lr8\task16\task16th\task17\bin\Release\task17.pdb
+F:\c#\lr8\task16\task16th\task17\obj\Release\task17.exe
+F:\c#\lr8\task16\task16th\task17\obj\Release\task17.pdb
+F:\c#\lr8\task16\task16th\task17\obj\Release\task17.csprojResolveAssemblyReference.cache

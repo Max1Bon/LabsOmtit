@@ -1,0 +1,12 @@
+F:\c#\three\task1\task2\bin\Debug\task2.exe.config
+F:\c#\three\task1\task2\bin\Debug\task2.exe
+F:\c#\three\task1\task2\bin\Debug\task2.pdb
+F:\c#\three\task1\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+F:\c#\three\task1\task2\obj\Debug\task2.exe
+F:\c#\three\task1\task2\obj\Debug\task2.pdb
+E:\c#\three\task1\task2\bin\Debug\task2.exe.config
+E:\c#\three\task1\task2\bin\Debug\task2.exe
+E:\c#\three\task1\task2\bin\Debug\task2.pdb
+E:\c#\three\task1\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+E:\c#\three\task1\task2\obj\Debug\task2.exe
+E:\c#\three\task1\task2\obj\Debug\task2.pdb

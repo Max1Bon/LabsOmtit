@@ -1,0 +1,5 @@
+F:\c#\LrTwo\LrTwo\bin\Debug\LrTwo.exe.config
+F:\c#\LrTwo\LrTwo\bin\Debug\LrTwo.exe
+F:\c#\LrTwo\LrTwo\bin\Debug\LrTwo.pdb
+F:\c#\LrTwo\LrTwo\obj\Debug\LrTwo.exe
+F:\c#\LrTwo\LrTwo\obj\Debug\LrTwo.pdb

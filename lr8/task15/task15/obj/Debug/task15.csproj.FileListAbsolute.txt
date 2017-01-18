@@ -1,0 +1,6 @@
+E:\c#\lr8\task15\task15\bin\Debug\task15.exe.config
+E:\c#\lr8\task15\task15\bin\Debug\task15.exe
+E:\c#\lr8\task15\task15\bin\Debug\task15.pdb
+E:\c#\lr8\task15\task15\obj\Debug\task15.csprojResolveAssemblyReference.cache
+E:\c#\lr8\task15\task15\obj\Debug\task15.exe
+E:\c#\lr8\task15\task15\obj\Debug\task15.pdb
