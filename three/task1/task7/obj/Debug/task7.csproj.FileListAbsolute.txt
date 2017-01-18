@@ -1,0 +1,11 @@
+F:\c#\three\task1\task7\bin\Debug\task7.exe.config
+F:\c#\three\task1\task7\bin\Debug\task7.exe
+F:\c#\three\task1\task7\bin\Debug\task7.pdb
+F:\c#\three\task1\task7\obj\Debug\task7.exe
+F:\c#\three\task1\task7\obj\Debug\task7.pdb
+E:\c#\three\task1\task7\bin\Debug\task7.exe.config
+E:\c#\three\task1\task7\bin\Debug\task7.exe
+E:\c#\three\task1\task7\bin\Debug\task7.pdb
+E:\c#\three\task1\task7\obj\Debug\task7.exe
+E:\c#\three\task1\task7\obj\Debug\task7.pdb
+E:\c#\three\task1\task7\obj\Debug\task7.csprojResolveAssemblyReference.cache

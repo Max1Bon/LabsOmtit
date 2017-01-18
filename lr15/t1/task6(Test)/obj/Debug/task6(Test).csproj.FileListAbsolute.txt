@@ -1,0 +1,16 @@
+I:\c#\lr15\t1\task6(Test)\bin\Debug\task6(Test).exe.config
+I:\c#\lr15\t1\task6(Test)\bin\Debug\task6(Test).exe
+I:\c#\lr15\t1\task6(Test)\bin\Debug\task6(Test).pdb
+I:\c#\lr15\t1\task6(Test)\bin\Debug\ClassLibrary1.dll
+I:\c#\lr15\t1\task6(Test)\bin\Debug\ClassLibrary1.pdb
+I:\c#\lr15\t1\task6(Test)\obj\Debug\task6(Test).csprojResolveAssemblyReference.cache
+I:\c#\lr15\t1\task6(Test)\obj\Debug\task6(Test).exe
+I:\c#\lr15\t1\task6(Test)\obj\Debug\task6(Test).pdb
+F:\c#\lr15\t1\task6(Test)\bin\Debug\task6(Test).exe.config
+F:\c#\lr15\t1\task6(Test)\obj\Debug\task6(Test).exe
+F:\c#\lr15\t1\task6(Test)\obj\Debug\task6(Test).pdb
+F:\c#\lr15\t1\task6(Test)\bin\Debug\task6(Test).exe
+F:\c#\lr15\t1\task6(Test)\bin\Debug\task6(Test).pdb
+F:\c#\lr15\t1\task6(Test)\bin\Debug\ClassLibrary1.dll
+F:\c#\lr15\t1\task6(Test)\bin\Debug\ClassLibrary1.pdb
+F:\c#\lr15\t1\task6(Test)\obj\Debug\task6(Test).csprojResolveAssemblyReference.cache

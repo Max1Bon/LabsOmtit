@@ -1,0 +1,5 @@
+F:\c#\LrTwo\task2\bin\Debug\task2.exe.config
+F:\c#\LrTwo\task2\bin\Debug\task2.exe
+F:\c#\LrTwo\task2\bin\Debug\task2.pdb
+F:\c#\LrTwo\task2\obj\Debug\task2.exe
+F:\c#\LrTwo\task2\obj\Debug\task2.pdb

@@ -1,0 +1,10 @@
+F:\c#\three\task1\task13\bin\Debug\task13.exe.config
+F:\c#\three\task1\task13\bin\Debug\task13.exe
+F:\c#\three\task1\task13\bin\Debug\task13.pdb
+F:\c#\three\task1\task13\obj\Debug\task13.exe
+F:\c#\three\task1\task13\obj\Debug\task13.pdb
+E:\c#\three\task1\task13\bin\Debug\task13.exe.config
+E:\c#\three\task1\task13\obj\Debug\task13.exe
+E:\c#\three\task1\task13\obj\Debug\task13.pdb
+E:\c#\three\task1\task13\bin\Debug\task13.exe
+E:\c#\three\task1\task13\bin\Debug\task13.pdb

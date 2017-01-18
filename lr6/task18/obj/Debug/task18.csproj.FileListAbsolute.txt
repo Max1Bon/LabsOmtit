@@ -1,0 +1,5 @@
+F:\c#\lr6\task18\bin\Debug\task18.exe.config
+F:\c#\lr6\task18\bin\Debug\task18.exe
+F:\c#\lr6\task18\bin\Debug\task18.pdb
+F:\c#\lr6\task18\obj\Debug\task18.exe
+F:\c#\lr6\task18\obj\Debug\task18.pdb

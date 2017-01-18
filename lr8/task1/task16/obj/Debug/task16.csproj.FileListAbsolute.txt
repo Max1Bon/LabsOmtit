@@ -1,0 +1,5 @@
+E:\c#\lr8\task1\task16\bin\Debug\task16.exe.config
+E:\c#\lr8\task1\task16\bin\Debug\task16.exe
+E:\c#\lr8\task1\task16\bin\Debug\task16.pdb
+E:\c#\lr8\task1\task16\obj\Debug\task16.exe
+E:\c#\lr8\task1\task16\obj\Debug\task16.pdb

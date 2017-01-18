@@ -1,0 +1,7 @@
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\task19\bin\Release\task19.exe
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\task19\bin\Release\task19.pdb
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\task19\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\task19\obj\Release\task19.exe
+C:\Documents and Settings\1\Local Settings\Application Data\Temporary Projects\task19\obj\Release\task19.pdb
+H:\c#\lr6\task20\task19\task19\obj\Release\task19.exe
+H:\c#\lr6\task20\task19\task19\obj\Release\task19.pdb

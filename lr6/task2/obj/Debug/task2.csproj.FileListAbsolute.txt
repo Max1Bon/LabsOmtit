@@ -1,0 +1,6 @@
+F:\c#\lr6\task2\bin\Debug\task2.exe.config
+F:\c#\lr6\task2\bin\Debug\task2.exe
+F:\c#\lr6\task2\bin\Debug\task2.pdb
+F:\c#\lr6\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+F:\c#\lr6\task2\obj\Debug\task2.exe
+F:\c#\lr6\task2\obj\Debug\task2.pdb

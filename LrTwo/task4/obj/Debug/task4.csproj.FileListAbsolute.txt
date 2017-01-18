@@ -1,0 +1,6 @@
+F:\c#\LrTwo\task4\bin\Debug\task4.exe.config
+F:\c#\LrTwo\task4\bin\Debug\task4.exe
+F:\c#\LrTwo\task4\bin\Debug\task4.pdb
+F:\c#\LrTwo\task4\obj\Debug\task4.exe
+F:\c#\LrTwo\task4\obj\Debug\task4.pdb
+F:\c#\LrTwo\task4\obj\Debug\task4.csprojResolveAssemblyReference.cache

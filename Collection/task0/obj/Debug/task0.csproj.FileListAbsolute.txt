@@ -1,0 +1,6 @@
+F:\c#\Collection\task0\bin\Debug\task0.exe.config
+F:\c#\Collection\task0\bin\Debug\task0.exe
+F:\c#\Collection\task0\bin\Debug\task0.pdb
+F:\c#\Collection\task0\obj\Debug\task0.csprojResolveAssemblyReference.cache
+F:\c#\Collection\task0\obj\Debug\task0.exe
+F:\c#\Collection\task0\obj\Debug\task0.pdb

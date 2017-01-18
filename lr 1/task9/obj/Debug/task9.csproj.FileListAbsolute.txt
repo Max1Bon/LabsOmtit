@@ -1,0 +1,6 @@
+F:\c#\first\task9\bin\Debug\task9.exe.config
+F:\c#\first\task9\bin\Debug\task9.exe
+F:\c#\first\task9\bin\Debug\task9.pdb
+F:\c#\first\task9\obj\Debug\task9.exe
+F:\c#\first\task9\obj\Debug\task9.pdb
+F:\c#\first\task9\obj\Debug\task9.csprojResolveAssemblyReference.cache

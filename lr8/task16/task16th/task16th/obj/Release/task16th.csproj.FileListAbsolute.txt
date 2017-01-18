@@ -1,0 +1,10 @@
+C:\Users\Student\AppData\Local\Temporary Projects\task16th\bin\Release\task16th.exe
+C:\Users\Student\AppData\Local\Temporary Projects\task16th\bin\Release\task16th.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\task16th\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Student\AppData\Local\Temporary Projects\task16th\obj\Release\task16th.exe
+C:\Users\Student\AppData\Local\Temporary Projects\task16th\obj\Release\task16th.pdb
+F:\c#\lr8\task16\task16th\task16th\obj\Release\task16th.exe
+F:\c#\lr8\task16\task16th\task16th\obj\Release\task16th.pdb
+F:\c#\lr8\task16\task16th\task16th\bin\Release\task16th.exe
+F:\c#\lr8\task16\task16th\task16th\bin\Release\task16th.pdb
+F:\c#\lr8\task16\task16th\task16th\obj\Release\ResolveAssemblyReference.cache

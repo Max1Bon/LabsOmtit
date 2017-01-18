@@ -1,0 +1,5 @@
+E:\c#\lr8\task1\task9\bin\Debug\task9.exe.config
+E:\c#\lr8\task1\task9\bin\Debug\task9.exe
+E:\c#\lr8\task1\task9\bin\Debug\task9.pdb
+E:\c#\lr8\task1\task9\obj\Debug\task9.exe
+E:\c#\lr8\task1\task9\obj\Debug\task9.pdb

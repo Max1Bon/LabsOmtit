@@ -1,0 +1,6 @@
+F:\c#\first\task12\bin\Debug\task12.exe.config
+F:\c#\first\task12\bin\Debug\task12.exe
+F:\c#\first\task12\bin\Debug\task12.pdb
+F:\c#\first\task12\obj\Debug\task12.csprojResolveAssemblyReference.cache
+F:\c#\first\task12\obj\Debug\task12.exe
+F:\c#\first\task12\obj\Debug\task12.pdb

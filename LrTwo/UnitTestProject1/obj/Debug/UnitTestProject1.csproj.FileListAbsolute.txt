@@ -1,0 +1,9 @@
+F:\c#\LrTwo\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\c#\LrTwo\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\c#\LrTwo\UnitTestProject1\bin\Debug\task2.exe
+F:\c#\LrTwo\UnitTestProject1\bin\Debug\task2.pdb
+F:\c#\LrTwo\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+F:\c#\LrTwo\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\c#\LrTwo\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\c#\LrTwo\UnitTestProject1\bin\Debug\task6.exe
+F:\c#\LrTwo\UnitTestProject1\bin\Debug\task6.pdb
