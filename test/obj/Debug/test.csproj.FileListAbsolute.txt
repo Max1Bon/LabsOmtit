@@ -1,0 +1,6 @@
+I:\c#\LR14_Classes\test\bin\Debug\test.exe.config
+I:\c#\LR14_Classes\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+I:\c#\LR14_Classes\test\bin\Debug\test.exe
+I:\c#\LR14_Classes\test\bin\Debug\test.pdb
+I:\c#\LR14_Classes\test\obj\Debug\test.exe
+I:\c#\LR14_Classes\test\obj\Debug\test.pdb
