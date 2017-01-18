@@ -1,4 +1,0 @@
-3
-example@mail.com
-test_user@gmail.com
-fakemail@ya.ru
